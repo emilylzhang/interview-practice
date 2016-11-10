@@ -1,0 +1,6 @@
+1) dijkstra's algorithm
+2) bfs/dfs
+3) min heap/max heap
+4) merge sort
+5) quick sort
+6) hashtable
